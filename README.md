@@ -1,2 +1,2 @@
-# Angry-Birds-w-Images
-Class 25 WHJ
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
